@@ -14,7 +14,7 @@
       <Awards/>
     </div>
   </Layout>
-</template>
+</template> 
 
 <script>
 import About from "../components/About";
